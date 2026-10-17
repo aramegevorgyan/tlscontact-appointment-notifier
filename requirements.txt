@@ -1,0 +1,5 @@
+playwright==1.64.0
+playwright-stealth==2.0.3
+python-telegram-bot==22.8
+python-dotenv==1.2.4
+cryptography==46.0.7
